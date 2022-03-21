@@ -1,0 +1,8 @@
+/bin/
+/target/
+.classpath
+.idea/
+.project
+.settings/
+logo.png
+test-output/
